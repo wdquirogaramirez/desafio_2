@@ -36,14 +36,14 @@ header .nav-link {
     text-decoration: none;
     color: #9c9d9f;
 }
-.ingreso{
+/* .ingreso{
     background-image: url(../img/ba1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height: 600px;
 
-}
+} */
 .ingreso div{
     background-color: rgba(0, 0, 0, 0.411);
     height: 600px;
@@ -88,7 +88,7 @@ header .nav-link {
 footer{
     position: absolute;
     padding: 2rem;
-    height: 9rem;
+    height: 6rem;
     width: 100%;
     background-color: #1C3D4E;
     bottom: 0;

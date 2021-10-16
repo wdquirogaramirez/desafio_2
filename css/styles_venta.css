@@ -1,6 +1,35 @@
+.txt_soft{
+font-weight: lighter;
+}
+.sale{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    padding: 30px;
+    font-size: 1.6em;
+}
+.sale div{
+    padding: 30px;
+}
+.sale #cubo_1{
+    border: #007BFF solid 1px;
+}
 
+.sale #cubo_2{
+    border: solid 1px #17A2B8;
+}
+.sale #cubo_3{
+    border: solid 1px #FFC107;
+}
+ 
 #calculo{
+    text-align: center;
     max-height: 100vh;
-    background-color: aqua;
-    color: black;
+ 
+}
+#formulario{
+    text-align: start;
 }
